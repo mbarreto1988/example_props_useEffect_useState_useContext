@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.useState{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  height: 150px;
+  background-color: rgb(171, 171, 250);
+}
+
+.effect{
+  display: flex;
+  height: 150px;
+  gap: 20px;
+  background-color: rgb(246, 113, 113);
+}
+
+.props{
+  display: flex;
+  height: 150px;
+  gap: 20px;
+  background-color: rgb(71, 199, 24);
+}
